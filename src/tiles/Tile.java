@@ -1,7 +1,5 @@
 package tiles;
 
-import java.awt.image.*;
-
 import graphics.*;
 
 public class Tile {
